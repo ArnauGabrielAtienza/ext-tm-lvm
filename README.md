@@ -25,11 +25,11 @@ Requirements
 
 -  LVM installed and enabled in the hosts.
 -  Password-lesss sudo permission for the following commands:
--    lvremove
--    lvcreate
--    lvs
--    vgdisplay
--    dd
+  -  lvremove
+  -  lvcreate
+  -  lvs
+  -  vgdisplay
+  -  dd
 - `oneadmin` needs to belong to the `disk` group.
 
 Configuration
