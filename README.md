@@ -61,7 +61,7 @@ Afterwards, you should restart OpenNebula for the changes to take effect.
 
 ### LVM Configuration
 
-TODO: Propose an example using two hosts. 
+For information regarding how to setup the LVM storage, please refere [here](https://docs.opennebula.io/6.10/open_cluster_deployment/storage_setup/lvm_drivers.html)
 
 Testing
 -------
